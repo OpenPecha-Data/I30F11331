@@ -1,0 +1,16 @@
+id: I30F11331
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:45:08.181176
+last_modified: 2023-02-09 14:45:08.181335
+source_metadata:
+  title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+  language: sa
+bases:
+  '9666':
+    base_file: 9666.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
